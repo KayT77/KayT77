@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KayT77
+- 👋 Hi, I’m Kelvin ( @KayT77)
 - 👀 I’m interested in technology and environment.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on basic principles in coding and be better at it.
