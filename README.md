@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelvin ( @KayT77)
 - 👀 I’m interested in technology and environment.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on basic principles in coding and be better at it.
+- 💞️ I’m looking to collaborate on basic principles in programming and be better at it.
 - 📫 How to reach me tagoe.kelvin07@gmail.com /www.linkedin.com/in/kelvintagoe/
 
 <!---
